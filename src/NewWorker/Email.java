@@ -1,4 +1,4 @@
-package Email;
+package NewWorker;
 
 import java.util.Scanner;
 
